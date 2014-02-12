@@ -1,0 +1,10 @@
+c:\users\emre\documents\visual studio 2010\Projects\CalarSaat\CalarSaat\bin\Debug\CalarSaat.exe
+c:\users\emre\documents\visual studio 2010\Projects\CalarSaat\CalarSaat\bin\Debug\CalarSaat.pdb
+c:\users\emre\documents\visual studio 2010\Projects\CalarSaat\CalarSaat\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2010\Projects\CalarSaat\CalarSaat\obj\x86\Debug\CalarSaat.About.resources
+c:\users\emre\documents\visual studio 2010\Projects\CalarSaat\CalarSaat\obj\x86\Debug\CalarSaat.Index.resources
+c:\users\emre\documents\visual studio 2010\Projects\CalarSaat\CalarSaat\obj\x86\Debug\CalarSaat.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2010\Projects\CalarSaat\CalarSaat\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\emre\documents\visual studio 2010\Projects\CalarSaat\CalarSaat\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\emre\documents\visual studio 2010\Projects\CalarSaat\CalarSaat\obj\x86\Debug\CalarSaat.exe
+c:\users\emre\documents\visual studio 2010\Projects\CalarSaat\CalarSaat\obj\x86\Debug\CalarSaat.pdb
